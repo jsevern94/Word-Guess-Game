@@ -1,0 +1,32 @@
+#logo {
+    margin: auto;
+    width: 25%;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 32px;
+}
+
+.container {
+    background-color: white;
+    width: 20%;
+    margin: 37px;
+    float: left;
+}
+
+.game-rules {
+    background-color: white;
+    width: 85%;
+    margin: auto;
+    font-size: 38px;
+}
+
+ html {
+    height: 100%
+ }
+
+
